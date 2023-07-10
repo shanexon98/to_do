@@ -1,16 +1,25 @@
-# to_do
-
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application the function this project is write and edit your task for you remember in the day.
 
-A few resources to get you started if this is your first Flutter project:
+## Run project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For run this project you have down the packages with the next command Flutter pub get, later this run in the emulator. 
+
+## Autor
+
+Shanexon Ortiz 
+
+# Images the APP
+
+![image](https://github.com/shanexon98/to_do/assets/70789896/b70d0cf6-9348-43b7-9550-6b316e42cf7a)
+
+
+![image](https://github.com/shanexon98/to_do/assets/70789896/2cad54ed-892a-47d5-b5c0-545764da7ccd)
+
+
+![image](https://github.com/shanexon98/to_do/assets/70789896/5cb38fdb-f7a7-4fb2-bf35-b6fb27aab1a7)
+
+![image](https://github.com/shanexon98/to_do/assets/70789896/9d020096-240b-42d7-b635-a53967eaf421)
+
